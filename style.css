@@ -35,11 +35,11 @@ h1 {
  
 .tab_class {
   width: calc(100%/5);
-  height: 50px;
+  height: 70px;
   background-color: #b0c4de;
   color: aliceblue;
-  line-height: 50px;
-  font-size: 18px;
+  line-height: 70px;
+  font-size: 25px;
   text-align: center;
   display: block;
   float: left;
@@ -67,13 +67,13 @@ input:checked + .tab_class + .content_class {
 
 .circle{
   display: inline-block;
-  width: 40px;
+  width: 80px;
   height: 30px;
   border-radius: 50%;
   background: #b0c4de;
   text-align:center;
   line-height: 30px;
-  font-size: 8px;
+  font-size: 20px;
   color: aliceblue;
 }
 
