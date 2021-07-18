@@ -1,5 +1,8 @@
 @charset "UTF-8";
-
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+body {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
 
 .toppage {
   width: 800px;
