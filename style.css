@@ -25,7 +25,8 @@ h1 {
 
 
 .area {
-  width: 800px;
+  width: 100vw;
+  height: 100vh;
   margin: auto;
   flex-wrap: wrap;
   display: flex;
